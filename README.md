@@ -4,10 +4,10 @@ Hello world, I'm Samiur Rahman Mukul. Now at this repository i will makes a Musi
 
 ## 🔰 Live Preview Projects
 
-- $ Let's Play Music Play On Live - [Click To Live Preview][music-player]
+- Let's Play Music On Live - [Click To Live Preview][music-player]
 
-                    </> HAPPY DESIGN & DEVELOPING 🤣 </>
+                        </> HAPPY DESIGN & DEVELOPING 🤣 </>
 
 <!-- project link -->
 
-[music-player]: https://samiurrahmanmukul.github.io/JavaScript-Project-Build-A-Music-Player
+[music-player]: https://samiurrahmanmukul.github.io/JavaScript-Project-Build-A-Music-Player/index.html
